@@ -13,7 +13,7 @@ Puts the second image as the last unfilled channel of the first image.
     
 `-c --channel`
 
-Each image specifies the channel it should use. If not specified, the the channel will be black.
+Each image specifies the channel it should use. If not specified, the the channel will be black. (Not yet implemented)
 
 ```hwchanpack -c r.png b.png g.png a.png out.png```
 
